@@ -114,6 +114,7 @@ h2:hover{
      max-width: 100%;
      height: auto;
 }
+
  :focus {
      outline: 0;
 }
@@ -1582,4 +1583,14 @@ div .bg-edit{
      height: 50px;
      position: absolute;
      margin-left: -40px;
+}
+
+.reducesize{
+     height: 50px;
+     width: 100%;
+}
+
+.black{
+     background-color: #ad2101;
+     color: #ad2101;
 }
